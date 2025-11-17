@@ -2,3 +2,5 @@
 Learning about Version Control
 
 Author: Quan Hoang
+
+Solving merge conflicts is easy!
